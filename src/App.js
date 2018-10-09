@@ -337,7 +337,7 @@ WordPress has a web template system using a template processor. Its architecture
                 <li><span>APT#6,Block#2,Villa# 11,</span></li>
                 <li><span>Mohammed Bin Zayed City,Abudhabi,UAE</span></li>
                 <li><span>+971 563446123</span></li>
-                <li><span>rajeshthangaraj1@gmail.com</span></li>
+                <li><span><a href="mailto:rajeshthangaraj1@gmail.com">rajeshthangaraj1@gmail.com</a></span></li>
               </ul>
 
             </div>
